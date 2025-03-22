@@ -1,6 +1,6 @@
 name: Internalização de imagem - CrowdStrike Sensor
 description: Utilize essa Issue para internalizar imagens do Sensor Falcon CrowdStrike
-title: "[Bug]: "
+title: "[Issue]: "
 labels: ["build", "issue"]
 body:
   - type: markdown
@@ -8,7 +8,7 @@ body:
       value: |
         Após executada, a imagem estará disponível no Jfrog Artifactory
   - type: dropdown
-    id: browsers
+    id: type
     attributes:
       label: Selecione o tipo do sensor
       multiple: false
@@ -21,7 +21,7 @@ body:
     validations:
       required: true
   - type: input
-    id: version2
+    id: version
     attributes:
       label: Versão do sensor
       description: Informe a versão do sensor desejada. Para maiores detalhes, consulte a documentação https://crowdstrike.com
