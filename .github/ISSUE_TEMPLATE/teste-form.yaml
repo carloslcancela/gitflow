@@ -31,6 +31,8 @@ body:
         - falcon-kac
         - falcon-container
         - shra
+      validations:
+        required: true
   - type: input
     id: version2
     attributes:
