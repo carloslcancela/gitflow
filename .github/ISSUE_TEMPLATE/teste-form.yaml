@@ -1,5 +1,5 @@
 name: Internalização de imagem - CrowdStrike Sensor
-description: File a bug report.
+description: Utilize essa Issue para internalizar imagens do Sensor Falcon CrowdStrike
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
