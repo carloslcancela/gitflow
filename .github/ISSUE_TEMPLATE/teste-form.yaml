@@ -2,7 +2,6 @@ name: Internalização de imagem - CrowdStrike Sensor
 description: Utilize essa Issue para internalizar imagens do Sensor Falcon CrowdStrike
 title: "[Bug]: "
 labels: ["build", "issue"]
-projects: ["Security"]
 assignees:
   - Security
 body:
