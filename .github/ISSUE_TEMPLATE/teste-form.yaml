@@ -49,7 +49,7 @@ body:
         - falcon-container
         - shra
   - type: input
-    id: contact
+    id: version2
     attributes:
       label: Versão do sensor
       description: Informa a versão do sensor desejada
