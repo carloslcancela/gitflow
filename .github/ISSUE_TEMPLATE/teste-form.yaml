@@ -48,7 +48,7 @@ body:
         - falcon-kac
         - falcon-container
         - shra
-   - type: input
+  - type: input
     id: contact
     attributes:
       label: Versão do sensor
