@@ -30,4 +30,4 @@ body:
       description: Informe a versão do sensor desejada. Para maiores detalhes, consulte a documentação https://crowdstrike.com
       placeholder: ex. 7.x.xx.crowdstrike.us-2
     validations:
-      required: false
+      required: true
