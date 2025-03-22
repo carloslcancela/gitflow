@@ -42,7 +42,7 @@ body:
     id: browsers
     attributes:
       label: Selecione o tipo do sensor
-      multiple: true
+      multiple: false
       options:
         - falcon-sensor
         - falcon-kac
