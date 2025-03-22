@@ -2,9 +2,9 @@ name: Internalização de imagem - CrowdStrike Sensor
 description: Utilize essa Issue para internalizar imagens do Sensor Falcon CrowdStrike
 title: "[Bug]: "
 labels: ["build", "issue"]
-projects: ["octo-org/1", "octo-org/44"]
+projects: ["Security"]
 assignees:
-  - octocat
+  - Security
 body:
   - type: markdown
     attributes:
