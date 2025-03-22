@@ -48,11 +48,6 @@ body:
         - falcon-kac
         - falcon-container
         - shra
-   - type: textarea
-    id: browsers
-    attributes:
-      label: Selecione a versão desejada
-      multiple: false
   - type: textarea
     id: logs
     attributes:
