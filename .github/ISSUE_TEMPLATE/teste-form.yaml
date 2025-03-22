@@ -41,13 +41,13 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Selecione o tipo do sensor
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - falcon-sensor
+        - falcon-kac
+        - falcon-container
+        - shra
   - type: textarea
     id: logs
     attributes:
