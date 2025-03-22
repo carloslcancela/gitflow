@@ -20,6 +20,7 @@ body:
         - falcon-kac
         - falcon-container
         - shra
+        - iar
     validations:
       required: true
   - type: input
