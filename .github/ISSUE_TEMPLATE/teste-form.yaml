@@ -22,7 +22,7 @@ body:
         - iar
     validations:
       required: true
-   - type: dropdown
+  - type: dropdown
     id: architecture
     attributes:
       label: Selecione a arquitetura
